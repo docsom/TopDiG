@@ -1,3 +1,8 @@
+# TopDiG Model Implementation
+This project used the Relationformer code as a boilerplate to implement, train, and test the TopDiG model.
+
+---
+
 # Relationformer: A Unified Framework for Image-to-Graph Generation
 
 ## Requirements
